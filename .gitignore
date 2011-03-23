@@ -1,0 +1,5 @@
+\#*
+*~
+*.pyc
+plots/*
+graph_tests/*
