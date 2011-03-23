@@ -4,7 +4,6 @@ andrewyates.name@gmail.com
 SINE WAVE GENERALIZATION USING A RADIAL BASIS FUNCTION NEURAL NETWORK
 
 This is a working RBF neural network solution to the Winter 2011 CSE
-779 class at Ohio State with Dr. DeLiang Wang. This is not meant to be
-production software, and this software is merely a demonstration of
-neural network concepts to achieve the educational objective of this
-class.
+779 class at Ohio State University with Dr. DeLiang Wang. This is not
+meant to be production software, and this package is merely a
+demonstration of neural network concepts for educational purposes only.
